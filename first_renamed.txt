@@ -1,2 +1,3 @@
 this is the version of my project.
 Now i m going to commit 2
+this is amend test something is added in it by mistake now unmodified it 
